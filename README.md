@@ -1,35 +1,107 @@
-<h1 align="center">Hi 👋, I'm Momen Hesham</h1>
-<h3 align="center">A passionate MERN developer from Egypt</h3>
+# 🚀 Momen Hesham – Full Stack Developer Portfolio
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momenhesham235&label=Profile%20views&color=0e75b6&style=flat" alt="momenhesham235" /> </p>
+Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a **Full Stack Developer** with a strong focus on **performance, accessibility, and clean architecture**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momenhesham235" alt="momenhesham235" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/m0menheshamel" target="blank"><img src="https://img.shields.io/twitter/follow/m0menheshamel?logo=twitter&style=for-the-badge" alt="m0menheshamel" /></a> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [React E-Commerce](https://github.com/momenhesham235/React-E-Commerce)
+I'm **Momen Hesham**, a passionate Full Stack Developer specialized in **React, MERN Stack, and modern web technologies**. I enjoy building scalable, accessible, and user-friendly web applications.
 
-- 🌱 I’m currently learning **MERN Stack**
+* 💡 Strong problem-solving & analytical skills
+* ♿ Accessibility-first mindset (WCAG, semantic HTML, ARIA best practices)
+* ⚡ Performance optimization & clean UI/UX
+* 🌍 Open to **remote**, **freelance**, and **full-time** opportunities
 
-- 👨‍💻 All of my projects are available at [https://momenhesham235.github.io/momen-portfolio/](https://momenhesham235.github.io/momen-portfolio/)
+---
 
-- 💬 Ask me about **MERN Stack**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **hmomen235@gmail.com**
+### Frontend
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m0menheshamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0menheshamel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/momen-hesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momen-hesham" height="30" width="40" /></a>
-<a href="https://fb.com/momen.hesham.5264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="momen.hesham.5264" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hmomen235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hmomen235" height="30" width="40" /></a>
-</p>
+* React.js, Vite
+* JavaScript (ES6+)
+* Tailwind CSS, Material UI
+* React Router DOM
+* Zustand, TanStack React Query
+* Framer Motion
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momenhesham235&show_icons=true&locale=en&layout=compact" alt="momenhesham235" /></p>
+* Node.js, Express.js
+* MongoDB, Mongoose
+* JWT Authentication
+* RESTful APIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momenhesham235&show_icons=true&locale=en" alt="momenhesham235" /></p>
+### Tools & Other
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momenhesham235&" alt="momenhesham235" /></p>
+* Git & GitHub
+* Axios
+* Formspree
+* Lottie Animations
+* Lighthouse & Chrome DevTools
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 MERN Stack Social Media App
+
+* Full authentication system (JWT)
+* CRUD operations
+* Optimized state management
+* Responsive & accessible UI
+
+### 🔹 E-Commerce Dashboard
+
+* Admin analytics dashboard
+* Charts & calendar integration
+* Modular & scalable architecture
+
+### 🔹 Notes App (MERN)
+
+* Secure authentication
+* Clean UI with Tailwind
+* REST API integration
+
+> 🔗 You can explore all projects with live demos and GitHub repositories directly from the portfolio.
+
+---
+
+## ♿ Accessibility & Best Practices
+
+* Semantic HTML structure
+* Descriptive links & buttons
+* Proper image `alt` handling (informative vs decorative)
+* Keyboard navigation support
+* ARIA used **only when necessary**
+* Screen reader friendly UI
+
+---
+
+## ⚡ Performance Optimization
+
+* Lazy loading images & components
+* Optimized re-renders
+* Code splitting
+* Lighthouse performance audits
+* Production-ready builds
+
+---
+
+## 📬 Contact Me
+
+* 📧 Email: **[hmomen235@gmail.com](mailto:hmomen235@gmail.com)**
+* 📱 WhatsApp: **+20 106 274 9282**
+* 💼 LinkedIn: [LinkedIn Profile]
+* 🧑‍💻 GitHub: [GitHub Profile]
+
+---
+
+## 📝 License
+
+This project is open-source and available for learning and inspiration.
+
+---
+
+⭐ If you like this portfolio, feel free to give it a star on GitHub!
