@@ -1,107 +1,100 @@
-# 🚀 Momen Hesham – Full Stack Developer Portfolio
+<h1 align="center">Hi 👋, I'm Momen Hesham</h1>
+<h3 align="center">Software Engineer | MERN Stack Developer</h3>
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a **Full Stack Developer** with a strong focus on **performance, accessibility, and clean architecture**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%26+Scalable+Architecture;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momenhesham235&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/YOUR_CV_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
-I'm **Momen Hesham**, a passionate Full Stack Developer specialized in **React, MERN Stack, and modern web technologies**. I enjoy building scalable, accessible, and user-friendly web applications.
+---
 
-* 💡 Strong problem-solving & analytical skills
-* ♿ Accessibility-first mindset (WCAG, semantic HTML, ARIA best practices)
-* ⚡ Performance optimization & clean UI/UX
-* 🌍 Open to **remote**, **freelance**, and **full-time** opportunities
+## 🚀 About Me
+
+- 🔭 Currently building a **scalable React E-Commerce platform**  
+- 🌱 Learning **MongoDB & Advanced Backend Architectures**  
+- 👯 Open to collaborating on **Full-Stack MERN applications**  
+- 🤔 Seeking guidance in **System Design & High-Performance APIs**  
+- 💬 Ask me about **React, MERN Stack, SEO & Web Performance**  
+- 👨‍💻 All of my projects: [Portfolio](https://momenhesham235.github.io/momen-portfolio/)  
+- 😄 Pronouns: **He / Him**  
+- ⚡ Fun fact: **I’m obsessed with clean code and performance optimization**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 👨‍💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,mui,vite,nextjs" />
+</p>
 
-* React.js, Vite
-* JavaScript (ES6+)
-* Tailwind CSS, Material UI
-* React Router DOM
-* Zustand, TanStack React Query
-* Framer Motion
+### 🧠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis" />
+</p>
 
-### Backend
-
-* Node.js, Express.js
-* MongoDB, Mongoose
-* JWT Authentication
-* RESTful APIs
-
-### Tools & Other
-
-* Git & GitHub
-* Axios
-* Formspree
-* Lottie Animations
-* Lighthouse & Chrome DevTools
+### ⚙️ Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,postman,linux" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 📫 Contact Me
 
-### 🔹 MERN Stack Social Media App
-
-* Full authentication system (JWT)
-* CRUD operations
-* Optimized state management
-* Responsive & accessible UI
-
-### 🔹 E-Commerce Dashboard
-
-* Admin analytics dashboard
-* Charts & calendar integration
-* Modular & scalable architecture
-
-### 🔹 Notes App (MERN)
-
-* Secure authentication
-* Clean UI with Tailwind
-* REST API integration
-
-> 🔗 You can explore all projects with live demos and GitHub repositories directly from the portfolio.
-
----
-
-## ♿ Accessibility & Best Practices
-
-* Semantic HTML structure
-* Descriptive links & buttons
-* Proper image `alt` handling (informative vs decorative)
-* Keyboard navigation support
-* ARIA used **only when necessary**
-* Screen reader friendly UI
+<p align="center">
+  <a href="mailto:hmomen235@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/momen-hesham/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/m0menHeshamel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/momen.hesham.5264/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/01062749282" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Momenhesham" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Performance Optimization
+## 📊 GitHub Stats
 
-* Lazy loading images & components
-* Optimized re-renders
-* Code splitting
-* Lighthouse performance audits
-* Production-ready builds
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenhesham235&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momenhesham235&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-## 📬 Contact Me
+<p align="center">
+  <a href="https://github.com/momenhesham235/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=momenhesham235&theme=gruvbox&layout=compact&hide_border=true" alt="momenhesham235 :: Top Langs by repo" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=momenhesham235&theme=gruvbox&layout=compact&hide_border=true" alt="momenhesham235 :: Top Langs by commit" />
+  </a>
+</p>
 
-* 📧 Email: **[hmomen235@gmail.com](mailto:hmomen235@gmail.com)**
-* 📱 WhatsApp: **+20 106 274 9282**
-* 💼 LinkedIn: [LinkedIn Profile]
-* 🧑‍💻 GitHub: [GitHub Profile]
-
----
-
-## 📝 License
-
-This project is open-source and available for learning and inspiration.
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
-⭐ If you like this portfolio, feel free to give it a star on GitHub!
+⭐ **If you like my work, don’t forget to star my repositories!**
