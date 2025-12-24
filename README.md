@@ -19,13 +19,13 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building a **scalable React E-Commerce platform**  
-- 🌱 Learning **MongoDB & Advanced Backend Architectures**  
-- 👯 Open to collaborating on **Full-Stack MERN applications**  
-- 🤔 Seeking guidance in **System Design & High-Performance APIs**  
-- 💬 Ask me about **React, MERN Stack, SEO & Web Performance**  
-- 👨‍💻 All of my projects: [Portfolio](https://momenhesham235.github.io/momen-portfolio/)  
-- 😄 Pronouns: **He / Him**  
+- 🔭 Currently building a **scalable React E-Commerce platform**
+- 🌱 Learning **MongoDB & Advanced Backend Architectures**
+- 👯 Open to collaborating on **Full-Stack MERN applications**
+- 🤔 Seeking guidance in **System Design & High-Performance APIs**
+- 💬 Ask me about **React, MERN Stack, SEO & Web Performance**
+- 👨‍💻 All of my projects: [Portfolio](https://momenhesham235.github.io/momen-portfolio/)
+- 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I’m obsessed with clean code and performance optimization**
 
 ---
@@ -74,25 +74,40 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenhesham235&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momenhesham235&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/momenhesham235/">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=momenhesham235&theme=gruvbox&layout=compact&hide_border=true" alt="momenhesham235 :: Top Langs by repo" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=momenhesham235&theme=gruvbox&layout=compact&hide_border=true" alt="momenhesham235 :: Top Langs by commit" />
+<div align="center">
+  <a href="https://github.com/momenhesham235" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">📈 Statistics</h3>
+
+<div align="center">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=momenhesham235&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=momenhesham235&theme=2077" height="180em" />
+
+  <br/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=momenhesham235&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=momenhesham235&theme=2077" height="180em" />
+
+  <br/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momenhesham235&theme=2077" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">⚡ Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenhesham235&theme=react-dark" />
 </p>
 
 ---
