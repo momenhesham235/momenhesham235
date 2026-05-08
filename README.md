@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momen Hesham</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer</h3>
+<h3 align="center">Software Engineer | React & React Native Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%26+Scalable+Architecture;Always+Learning+New+Things" />
