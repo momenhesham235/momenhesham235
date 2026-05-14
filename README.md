@@ -1,110 +1,78 @@
 <h1 align="center">Hi 👋, I'm Momen Hesham</h1>
-<h3 align="center">Software Engineer | React & React Native Developer </h3>
+<h3 align="center">Software Engineer | Frontend Engineer (React / React Native)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%26+Scalable+Architecture;Always+Learning+New+Things" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momenhesham235&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/YOUR_CV_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Engineer+specialized+in+React;Building+Scalable+Web+%26+Mobile+Apps;Performance+%7C+Clean+Architecture+%7C+UX+Focus;Always+Learning+and+Improving" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building a **scalable React E-Commerce platform**
-- 🌱 Learning **MongoDB & Advanced Backend Architectures**
-- 👯 Open to collaborating on **Full-Stack MERN applications**
-- 🤔 Seeking guidance in **System Design & High-Performance APIs**
-- 💬 Ask me about **React, MERN Stack, SEO & Web Performance**
+Frontend Engineer focused on building **scalable, high-performance web applications** using modern JavaScript ecosystems.
+
+- 🔭 Currently working on **scalable React / Next.js applications**
+- 🧠 Strong focus on **System Design (Frontend) & Architecture**
+- ⚡ Passionate about **Performance Optimization & Clean Code**
+- 🌱 Exploring **Advanced Backend Patterns & Microservices**
+- 👯 Open to collaboration on **Full Stack / React Native projects**
+- 💬 Ask me about **React, JavaScript, Next.js, SEO, UI Architecture**
 - 👨‍💻 All of my projects: [Portfolio](https://momenhesham235.github.io/momen-portfolio/)
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **I’m obsessed with clean code and performance optimization**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Frontend
+### ⚛️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,mui,vite,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui,vite,html,css" />
 </p>
 
-### 🧠 Backend
+### 🧩 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql" />
 </p>
 
-### ⚙️ Tools & Others
+### ⚙️ Dev Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,docker,postman,linux" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:hmomen235@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/momen-hesham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://x.com/m0menHeshamel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/momen.hesham.5264/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/01062749282" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Momenhesham" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/momenhesham235" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+### 🛒 E-Commerce Platform (React)
+- Scalable architecture with reusable components
+- State management with Zustand / Redux
+- Optimized rendering & performance improvements
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 📒 MERN Notes App
+- Full-stack CRUD application
+- JWT authentication & role-based access
+- Clean API structure with Express & MongoDB
 
-<h3 align="center">📈 Statistics</h3>
+### 📊 Admin Dashboard
+- Dynamic charts & analytics UI
+- Role-based dashboard system
+- Performance-optimized data fetching
 
-<div align="center">
+---
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=momenhesham235&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=momenhesham235&theme=2077" height="180em" />
+## 📈 GitHub Stats
 
-  <br/>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=momenhesham235&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=momenhesham235&theme=2077" height="180em" />
-
-  <br/>
-
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momenhesham235&theme=2077" />
+</p>
 
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=momenhesham235&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=momenhesham235&theme=2077" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h2 align="center">⚡ Activity Graph</h2>
+## ⚡ Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenhesham235&theme=react-dark" />
@@ -112,4 +80,34 @@
 
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories!**
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:hmomen235@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/momen-hesham/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/m0menHeshamel" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://wa.me/01062749282" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Engineering Mindset
+
+> “I don’t just build UI — I build systems that scale, perform, and stay maintainable.”
+
+- Clean Architecture > Quick Hacks  
+- Performance is a feature  
+- DX (Developer Experience) matters  
+- Always optimize for scalability  
+
+---
+
+⭐ If you like my work, consider starring my repositories!
